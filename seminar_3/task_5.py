@@ -14,4 +14,4 @@ def fib():
     print(lst1 + lst)
 
 
-
+fib()
