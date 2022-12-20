@@ -1,4 +1,4 @@
-# Task2
+# Task2_sem4
 number = int(input('Enter the number: '))
 factor = 2
 lst = []
