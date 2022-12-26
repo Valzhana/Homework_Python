@@ -1,7 +1,6 @@
 # Task2
 
 board = [int(i) for i in range(1, 10)]
-print(board)
 
 
 def draw_board(board):
